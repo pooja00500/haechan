@@ -1,6 +1,6 @@
 # haechan
 
-<h2> about </h2> 
+<h2>about</h2> 
 <body> 
 <ul>
 <li>NCT 127</li>
